@@ -1,0 +1,22 @@
+# Node dependencies
+**/node_modules/
+**/dist/
+**/build/
+**/.next/
+
+# Environment secrets
+.env
+.env.local
+
+# Docker logs and data
+**/logs/
+**/postgres_data/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
